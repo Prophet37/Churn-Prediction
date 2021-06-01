@@ -1,4 +1,6 @@
 # Churn Prediction
+![Proficiences](https://img.shields.io/badge/FIELD-MACHINELEARNING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
  My First ML Project
 
 ### Project description
